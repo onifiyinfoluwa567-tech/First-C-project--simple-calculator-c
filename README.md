@@ -15,4 +15,8 @@ A basic calculator built in C that performs:
 3. Enter two numbers and an operator when prompted
 
 ## Sample Output
+Enter first number: 5
+Enter second number: 2
+Choose operation (+ - * /): +
+Result: 7
 
